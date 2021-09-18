@@ -3,6 +3,8 @@
 
 This is a serverless event processor project for Python development with CDK.
 
+![image](https://user-images.githubusercontent.com/66815986/133877706-bd0ebef5-2c5e-4285-be05-131a77cf0df3.png)
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
