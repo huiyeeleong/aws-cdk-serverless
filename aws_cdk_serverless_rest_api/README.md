@@ -3,6 +3,9 @@
 
 This is a serverless rest api project for Python development with CDK.
 
+![image](https://user-images.githubusercontent.com/66815986/133885164-4383bfc8-1d0e-465f-8707-df60ef5e04dc.png)
+
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
