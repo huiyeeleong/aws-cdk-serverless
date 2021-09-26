@@ -3,6 +3,9 @@
 
 This is a serverless data steam processor project with kinesis for Python development with CDK.
 
+![image](https://user-images.githubusercontent.com/66815986/134789447-bed88cc8-4f89-4616-a0ad-41e42ac932a3.png)
+
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
