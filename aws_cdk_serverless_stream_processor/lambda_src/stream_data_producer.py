@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-.. module: sample_kinesis_producer
-    :Actions: Put Records in Kinesis Data Stream 
-    :copyright: (c) 2020 Mystique.,
-.. moduleauthor:: Mystique
-.. contactauthor:: miztiik@github issues
 """
 
 import json
@@ -17,15 +12,10 @@ import uuid
 
 import boto3
 
-__author__ = "Mystique"
-__email__ = "miztiik@github"
-__version__ = "0.0.1"
-__status__ = "production"
-
 
 class global_args:
     """ Global statics """
-    OWNER = "Mystique"
+    OWNER = "Hui"
     ENVIRONMENT = "production"
     MODULE_NAME = "sample_kinesis_producer"
     LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()

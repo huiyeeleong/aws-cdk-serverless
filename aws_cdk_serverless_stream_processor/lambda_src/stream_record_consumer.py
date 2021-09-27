@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-.. module: stream_record_consumer
-    :Actions: Process kinesis records
-    :copyright: (c) 2020 Mystique.,
-.. moduleauthor:: Mystique
-.. contactauthor:: miztiik@github issues
 """
 
 import json
@@ -14,15 +9,9 @@ import time
 import os
 import boto3
 
-__author__ = "Mystique"
-__email__ = "miztiik@github"
-__version__ = "0.0.1"
-__status__ = "production"
-
-
 class global_args:
     """ Global statics """
-    OWNER = "Mystique"
+    OWNER = "Hui"
     ENVIRONMENT = "production"
     MODULE_NAME = "stream_record_consumer"
     LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
