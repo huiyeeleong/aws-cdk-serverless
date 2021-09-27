@@ -2,7 +2,11 @@
 # Welcome to CDK Python project!
 
 This is AWS serverless Dynamo DB event processor project for Python development with CDK.
-Use case for this is online order for ecommerce platform
+
+Use case for this is online order for ecommerce platform.
+
+![image](https://user-images.githubusercontent.com/66815986/134900905-25bc6be8-ccf6-4943-b91d-d6ec0568895e.png)
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
