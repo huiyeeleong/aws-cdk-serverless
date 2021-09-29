@@ -1,7 +1,10 @@
 
-# Welcome to your CDK Python project!
+# Welcome to CDK Python project!
 
 This is AWS microservices containerize highly available project for Python development with CDK.
+
+![image](https://user-images.githubusercontent.com/66815986/135271146-190d6888-8fae-4d1a-af08-448a3bfffa41.png)
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
