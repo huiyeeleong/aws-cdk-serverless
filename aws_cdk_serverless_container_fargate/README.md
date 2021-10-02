@@ -3,6 +3,9 @@
 
 This is AWS serverless containers with farget project for Python development with CDK.
 
+![image](https://user-images.githubusercontent.com/66815986/135704801-74b01825-bf07-4b5b-a923-47f71e04a3ed.png)
+
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
