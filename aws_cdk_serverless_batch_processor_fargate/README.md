@@ -3,6 +3,9 @@
 
 This is AWS Serverless Batch Processor with Fargate project for Python development with CDK.
 
+![image](https://user-images.githubusercontent.com/66815986/135705057-7014af3e-c46c-4654-8c79-627061b7dff1.png)
+
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
